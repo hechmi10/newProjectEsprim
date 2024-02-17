@@ -1,4 +1,6 @@
 body{
     background-color:red;
     font-size: medium;
+    padding:5px;
+    font-style:italic;
 }
